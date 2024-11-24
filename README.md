@@ -33,7 +33,7 @@ A simple To-Do list web application built with React. Users can manage tasks, sw
 
 You can view the live demo of the project by visiting:
 
-- [Live Demo](https://to-do-list-QuadBTECH.vercel.app)
+- [Live Demo](https://to-do-list-QuadBTECH.netlify.app)
 
 ---
 
