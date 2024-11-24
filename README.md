@@ -58,6 +58,13 @@ You can view the live demo of the project by visiting:
 
 ---
 
+## UserName and Password
+
+- **UserName**: user
+- **Password**: password
+
+---
+
 ## Screenshots
 
 Below are some screenshots of the application in action.

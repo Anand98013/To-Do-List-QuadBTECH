@@ -36,7 +36,7 @@ function Sidebar({ open, tasks, onClose }) {
       onClose={onClose}
       sx={{
         "& .MuiDrawer-paper": {
-          width: isMobile ? "390px" : "280px",
+          width: isMobile ? "380px" : "280px",
           height: "calc(100vh - 64px)",
           marginTop: "64px",
           backgroundColor: "background.default",
